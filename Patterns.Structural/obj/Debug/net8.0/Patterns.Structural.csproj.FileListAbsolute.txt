@@ -1,0 +1,14 @@
+C:\Users\PorterCat\Development\Patterns\Patterns.Structural\bin\Debug\net8.0\Patterns.Structural.exe
+C:\Users\PorterCat\Development\Patterns\Patterns.Structural\bin\Debug\net8.0\Patterns.Structural.deps.json
+C:\Users\PorterCat\Development\Patterns\Patterns.Structural\bin\Debug\net8.0\Patterns.Structural.runtimeconfig.json
+C:\Users\PorterCat\Development\Patterns\Patterns.Structural\bin\Debug\net8.0\Patterns.Structural.dll
+C:\Users\PorterCat\Development\Patterns\Patterns.Structural\bin\Debug\net8.0\Patterns.Structural.pdb
+C:\Users\PorterCat\Development\Patterns\Patterns.Structural\obj\Debug\net8.0\Patterns.Structural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PorterCat\Development\Patterns\Patterns.Structural\obj\Debug\net8.0\Patterns.Structural.AssemblyInfoInputs.cache
+C:\Users\PorterCat\Development\Patterns\Patterns.Structural\obj\Debug\net8.0\Patterns.Structural.AssemblyInfo.cs
+C:\Users\PorterCat\Development\Patterns\Patterns.Structural\obj\Debug\net8.0\Patterns.Structural.csproj.CoreCompileInputs.cache
+C:\Users\PorterCat\Development\Patterns\Patterns.Structural\obj\Debug\net8.0\Patterns.Structural.dll
+C:\Users\PorterCat\Development\Patterns\Patterns.Structural\obj\Debug\net8.0\refint\Patterns.Structural.dll
+C:\Users\PorterCat\Development\Patterns\Patterns.Structural\obj\Debug\net8.0\Patterns.Structural.pdb
+C:\Users\PorterCat\Development\Patterns\Patterns.Structural\obj\Debug\net8.0\Patterns.Structural.genruntimeconfig.cache
+C:\Users\PorterCat\Development\Patterns\Patterns.Structural\obj\Debug\net8.0\ref\Patterns.Structural.dll
