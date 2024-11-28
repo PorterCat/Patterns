@@ -1,0 +1,14 @@
+C:\Users\PorterCat\Development\Patterns\Patterns.Creational\bin\Debug\net8.0\Patterns.Creational.exe
+C:\Users\PorterCat\Development\Patterns\Patterns.Creational\bin\Debug\net8.0\Patterns.Creational.deps.json
+C:\Users\PorterCat\Development\Patterns\Patterns.Creational\bin\Debug\net8.0\Patterns.Creational.runtimeconfig.json
+C:\Users\PorterCat\Development\Patterns\Patterns.Creational\bin\Debug\net8.0\Patterns.Creational.dll
+C:\Users\PorterCat\Development\Patterns\Patterns.Creational\bin\Debug\net8.0\Patterns.Creational.pdb
+C:\Users\PorterCat\Development\Patterns\Patterns.Creational\obj\Debug\net8.0\Patterns.Creational.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PorterCat\Development\Patterns\Patterns.Creational\obj\Debug\net8.0\Patterns.Creational.AssemblyInfoInputs.cache
+C:\Users\PorterCat\Development\Patterns\Patterns.Creational\obj\Debug\net8.0\Patterns.Creational.AssemblyInfo.cs
+C:\Users\PorterCat\Development\Patterns\Patterns.Creational\obj\Debug\net8.0\Patterns.Creational.csproj.CoreCompileInputs.cache
+C:\Users\PorterCat\Development\Patterns\Patterns.Creational\obj\Debug\net8.0\Patterns.Creational.dll
+C:\Users\PorterCat\Development\Patterns\Patterns.Creational\obj\Debug\net8.0\refint\Patterns.Creational.dll
+C:\Users\PorterCat\Development\Patterns\Patterns.Creational\obj\Debug\net8.0\Patterns.Creational.pdb
+C:\Users\PorterCat\Development\Patterns\Patterns.Creational\obj\Debug\net8.0\Patterns.Creational.genruntimeconfig.cache
+C:\Users\PorterCat\Development\Patterns\Patterns.Creational\obj\Debug\net8.0\ref\Patterns.Creational.dll
