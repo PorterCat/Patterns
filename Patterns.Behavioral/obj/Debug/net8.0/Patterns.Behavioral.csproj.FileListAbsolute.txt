@@ -1,0 +1,14 @@
+C:\Users\PorterCat\Development\Patterns\Patterns.Behavioral\bin\Debug\net8.0\Patterns.Behavioral.exe
+C:\Users\PorterCat\Development\Patterns\Patterns.Behavioral\bin\Debug\net8.0\Patterns.Behavioral.deps.json
+C:\Users\PorterCat\Development\Patterns\Patterns.Behavioral\bin\Debug\net8.0\Patterns.Behavioral.runtimeconfig.json
+C:\Users\PorterCat\Development\Patterns\Patterns.Behavioral\bin\Debug\net8.0\Patterns.Behavioral.dll
+C:\Users\PorterCat\Development\Patterns\Patterns.Behavioral\bin\Debug\net8.0\Patterns.Behavioral.pdb
+C:\Users\PorterCat\Development\Patterns\Patterns.Behavioral\obj\Debug\net8.0\Patterns.Behavioral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PorterCat\Development\Patterns\Patterns.Behavioral\obj\Debug\net8.0\Patterns.Behavioral.AssemblyInfoInputs.cache
+C:\Users\PorterCat\Development\Patterns\Patterns.Behavioral\obj\Debug\net8.0\Patterns.Behavioral.AssemblyInfo.cs
+C:\Users\PorterCat\Development\Patterns\Patterns.Behavioral\obj\Debug\net8.0\Patterns.Behavioral.csproj.CoreCompileInputs.cache
+C:\Users\PorterCat\Development\Patterns\Patterns.Behavioral\obj\Debug\net8.0\Patterns.Behavioral.dll
+C:\Users\PorterCat\Development\Patterns\Patterns.Behavioral\obj\Debug\net8.0\refint\Patterns.Behavioral.dll
+C:\Users\PorterCat\Development\Patterns\Patterns.Behavioral\obj\Debug\net8.0\Patterns.Behavioral.pdb
+C:\Users\PorterCat\Development\Patterns\Patterns.Behavioral\obj\Debug\net8.0\Patterns.Behavioral.genruntimeconfig.cache
+C:\Users\PorterCat\Development\Patterns\Patterns.Behavioral\obj\Debug\net8.0\ref\Patterns.Behavioral.dll
